@@ -1,0 +1,8 @@
+REGEDIT4
+
+[HKEY_CLASSES_ROOT\Directory\shell\XCopy]
+@="XCop&y"
+
+[HKEY_CLASSES_ROOT\Directory\shell\XCopy\Command]
+@="XCopyGUI.exe \"%1\""
+
